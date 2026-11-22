@@ -8,4 +8,4 @@
 
 Requirements: macOS 27
 
-Download: [Bonjour Menu v1](https://github.com/monkeydom/apps/releases/download/release%2FBonjourMenu-v1/BonjourMenu-v1.dmg)
+Download: [Bonjour Menu v1.1](https://github.com/monkeydom/apps/releases/download/release%2FBonjourMenu-v1.1/BonjourMenu-v1.1.dmg)
